@@ -4,6 +4,9 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
     <content url="file://$MODULE_DIR$/../demo3/.idea" />
+    <content url="file://$MODULE_DIR$/../demo3/src">
+      <sourceFolder url="file://$MODULE_DIR$/../demo3/src/main/java" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
